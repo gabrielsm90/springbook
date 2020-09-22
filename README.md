@@ -29,4 +29,4 @@ IDE: Eclipse
 
 - Add tests to cover the entire code. With limited time, and some issues initially found when trying to run tests from the IDE, I ran out of time to write the proper tests to cover the entire app, so this would be an example of a software not ready for release. Definitely next and most important step.
 
-- Run the application dockerized. Although there is a Dockerfile, I'm still having a conflict of versions from Java, since the app was built in a Windows environment, and I only have Docker installed in my Linux VM (not blaming on the differenfe of OS, but on the different Java versions I have running on them)
+- Run the application dockerized. Although there is a Dockerfile, I'm still having a conflict of versions from Java, since the app was built in a Windows environment, and I only have Docker installed in my Linux VM (not blaming on the difference of OS, but on the different Java versions I have running on them)
