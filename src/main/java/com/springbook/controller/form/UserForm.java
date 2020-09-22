@@ -2,7 +2,6 @@ package com.springbook.controller.form;
 
 import java.time.LocalDate;
 
-import javax.transaction.Transactional;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 

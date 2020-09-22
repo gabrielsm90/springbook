@@ -6,7 +6,6 @@ public class FormErrorDTO {
 	private String error;
 
 	public FormErrorDTO(String field, String error) {
-		super();
 		this.field = field;
 		this.error = error;
 	}
